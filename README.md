@@ -1,2 +1,2 @@
 # dom-1-test
-(img/xiaoguo.png ''效果'')
+![效果图](/img/xiaoguo.png)
