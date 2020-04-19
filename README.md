@@ -1,2 +1,2 @@
 # dom-1-test
-(img/xiaoguotu.png ''效果'')
+(/img/xiaoguotu.png ''效果'')
